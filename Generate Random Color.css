@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    height: 100px;
+    width: 40%;
+    border: 2px solid black;
+}
